@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PhotoAlbum_Eyac</title>
+
+    <!-- Favicons -->
+    <link href="~/Resources/images/system/favicon.png" rel="icon">
+    <link href="~/Resources/images/system/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!  -- Google Fonts   -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+
+    <!-- Vendor CSS Files -->
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/lib/bootstrap/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/lib/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="~/lib/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="~/lib/aos/aos.css" rel="stylesheet">
+
+    <!--   Template Main CSS File -->
+    <link href="~/css/main.css" rel="stylesheet">
+</head>
+<body>
+    <!-- ======= Header ======= -->
+    <header id="header" class="header d-flex align-items-center fixed-top">
+        <div class="container-fluid d-flex align-items-center justify-content-between">
+
+            <a asp-page="/Index" class="logo d-flex align-items-center  me-auto me-lg-0">
+                <!-- Uncomment the line below if you also wish to use an image logo -->
+                <!-- <img src="assets/img/logo.png" alt=""> -->
+                <i class="bi bi-camera"></i>
+                <h1>My Photo Album</h1>
+            </a>
+
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a asp-page="/Index">Home</a></li>
+                    <li class="dropdown"><a href="#"><span>Gallery</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                        <ul>
+                            <li><a asp-page="/Videogames">Videogames</a></li>                    
+                            <li><a asp-page="/Characters">Characters</a></li>                            
+                            <li><a asp-page="/Art">Art</a></li>
+                            <li><a asp-page="/Finds">Random Finds</a></li>
+                            <li><a asp-page="/Films">Films</a></li>                            
+                            <li class="dropdown"><a><span>Personal Photos</span> <i class="bi bi-chevron-right dropdown-indicator"></i></a>
+                            <ul>
+                                <li><a asp-page="/Personal">Personal</a></li>
+                                <li><a asp-page="/Pool">Pool Outings</a></li>
+                            </ul>
+                            </li>
+                        </ul>
+                    </li>                    
+                </ul>
+            </nav><!-- .navbar -->
+
+            <div class="header-social-links">
+                <a href="https://github.com/white-dough" class="github" target="_blank"><i class="bi bi-github"></i></a>
+                <a href="https://www.messenger.com/t/100004507778917" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+                <a href="https://www.youtube.com/&#64;stewie2k61/videos" target="_blank" class="youtube"><i class="bi bi-youtube"></i></a>
+            </div>
+            <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+            <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+
+        </div>
+    </header><!-- End Header -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer" class="footer">
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span><a href="https://github.com/white-dough" target="_blank">Dwight Eyac</a></span></strong>
+            </div>
+            <div class="credits">
+                <br />2023
+            </div>
+        </div>
+    </footer><!-- End Footer -->
+
+    <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <div id="preloader">
+        <div class="line"></div>
+    </div>
+
+    <!-- Vendor JS Files -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/swiper/swiper-bundle.min.js"></script>
+    <script src="~/lib/glightbox/js/glightbox.min.js"></script>
+    <script src="~/lib/aos/aos.js"></script>
+    <script src="~/lib/phpvalidate/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="~/js/main.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

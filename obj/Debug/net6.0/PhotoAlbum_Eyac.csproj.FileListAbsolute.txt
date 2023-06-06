@@ -1,0 +1,62 @@
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\bin\Debug\net6.0\appsettings.json
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.staticwebassets.runtime.json
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.exe
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.deps.json
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.runtimeconfig.json
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.dll
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.pdb
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.csproj.AssemblyReference.cache
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.AssemblyInfoInputs.cache
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.AssemblyInfo.cs
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.csproj.CoreCompileInputs.cache
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.RazorAssemblyInfo.cache
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.RazorAssemblyInfo.cs
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets\msbuild.PhotoAlbum_Eyac.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets\msbuild.build.PhotoAlbum_Eyac.props
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhotoAlbum_Eyac.props
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhotoAlbum_Eyac.props
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\scopedcss\bundle\PhotoAlbum_Eyac.styles.css
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\scopedcss\projectbundle\PhotoAlbum_Eyac.bundle.scp.css
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.dll
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\refint\PhotoAlbum_Eyac.dll
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.pdb
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.genruntimeconfig.cache
+C:\Users\Dwight\source\repos\New\PhotoAlbum_Eyac\obj\Debug\net6.0\ref\PhotoAlbum_Eyac.dll
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\bin\Debug\net6.0\appsettings.json
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.staticwebassets.runtime.json
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.exe
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.deps.json
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.runtimeconfig.json
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.dll
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\bin\Debug\net6.0\PhotoAlbum_Eyac.pdb
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.csproj.AssemblyReference.cache
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.AssemblyInfoInputs.cache
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.AssemblyInfo.cs
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.csproj.CoreCompileInputs.cache
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.RazorAssemblyInfo.cache
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.RazorAssemblyInfo.cs
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets\msbuild.PhotoAlbum_Eyac.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets\msbuild.build.PhotoAlbum_Eyac.props
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhotoAlbum_Eyac.props
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhotoAlbum_Eyac.props
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\scopedcss\bundle\PhotoAlbum_Eyac.styles.css
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\scopedcss\projectbundle\PhotoAlbum_Eyac.bundle.scp.css
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.dll
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\refint\PhotoAlbum_Eyac.dll
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.pdb
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\PhotoAlbum_Eyac.genruntimeconfig.cache
+D:\Coding\ASP webapp\PhotoAlbum_Eyac\obj\Debug\net6.0\ref\PhotoAlbum_Eyac.dll

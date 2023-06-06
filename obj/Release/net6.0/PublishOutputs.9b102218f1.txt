@@ -1,0 +1,7 @@
+C:\Users\Dwight\AppData\Local\Temp\d77ad895-c0fb-4915-a498-5d28d3c07d07\PhotoAlbum_Eyac.exe
+C:\Users\Dwight\AppData\Local\Temp\d77ad895-c0fb-4915-a498-5d28d3c07d07\appsettings.Development.json
+C:\Users\Dwight\AppData\Local\Temp\d77ad895-c0fb-4915-a498-5d28d3c07d07\appsettings.json
+C:\Users\Dwight\AppData\Local\Temp\d77ad895-c0fb-4915-a498-5d28d3c07d07\PhotoAlbum_Eyac.dll
+C:\Users\Dwight\AppData\Local\Temp\d77ad895-c0fb-4915-a498-5d28d3c07d07\PhotoAlbum_Eyac.deps.json
+C:\Users\Dwight\AppData\Local\Temp\d77ad895-c0fb-4915-a498-5d28d3c07d07\PhotoAlbum_Eyac.runtimeconfig.json
+C:\Users\Dwight\AppData\Local\Temp\d77ad895-c0fb-4915-a498-5d28d3c07d07\PhotoAlbum_Eyac.pdb

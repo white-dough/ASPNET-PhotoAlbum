@@ -1,0 +1,122 @@
+﻿.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 50px 20px 0 20px;
+    max-width: 100%;
+}
+
+.container .heading {
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+.container .heading h3 {
+    font-size: 3em;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #222;
+    color:#ff652f;
+    text-shadow: 3px 3px 0 black;
+}
+
+.container .heading h3 span {
+    font-weight: 100;
+    color: white;
+}
+
+.container .box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 95%;
+}
+
+.caption {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.capflex {
+display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.container .box .selected {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 1fr;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.fourflexthree {
+    flex-direction: column;
+    display: flex;
+
+    
+}
+.fourflexthree img{
+    width:60%;
+}
+
+.container .box .small {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1fr;
+    flex-wrap: wrap;
+}
+
+.container .box .fourflex {
+    display: flex;
+    flex-direction: row;
+}
+
+.container .box .fourflexone {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+    .container .box .fourflexone img {
+        width: 60%;
+    }
+
+.container .box .fourflextwo img {
+    width: 60%;
+}
+
+.container .box .fourflextwo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.container .box .small img {
+    width: 26.9%;
+    margin-left: 15px;
+    border-radius: 15px;
+}
+
+.container img {
+    width: 55%;
+    margin-left: 15px;
+    border-radius: 15px;
+}
+
+
+

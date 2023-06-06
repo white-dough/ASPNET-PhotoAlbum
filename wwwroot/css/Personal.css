@@ -1,0 +1,270 @@
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-content: space-evenly;
+  margin: 30px;
+  padding-top: 40px;
+}
+.box img{
+  max-width: 100%;
+}
+.caption{
+  grid-area: caption;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.childhood {
+  display: grid;
+  grid-gap: .5em;
+  grid-template-areas: 
+    "caption caption caption"
+    "photoOne photoTwo photoThree"
+    "photoOne photoFour photoFour";
+  grid-template-columns: 1fr 20% 20%;
+  width: 40%;
+  max-height: min-content;
+  justify-content: stretch;
+  align-items: stretch;
+  margin-bottom: 80px;
+}
+.childhood .one{
+  grid-area: photoOne;
+  align-self: stretch;
+  height: 100%;
+  
+}
+.childhood .two{
+  grid-area: photoTwo;
+}
+
+.childhood .three{
+  grid-area: photoThree;
+}
+
+.childhood .four{
+  grid-area: photoFour;
+}
+
+.friendGroup {
+  display: grid;
+  grid-gap: .5em;
+  grid-template-areas: 
+    "caption caption caption"
+    "photoOne photoTwo photoThree"
+    "photoOne photoFour photoFive";
+  grid-template-columns: 1fr 25% 25%;
+  width: 40%; 
+  height: 1fr;
+  justify-self: stretch;
+  align-self: stretch;
+  align-content: stretch;
+  align-items: stretch;
+  margin-bottom: 80px;
+}
+.friendGroup .eight{
+  grid-area: photoOne;
+  align-self: stretch;
+  justify-self: stretch;
+  height: 100%;
+}
+.friendGroup .nine{
+  grid-area: photoTwo;
+  align-self: stretch;
+  height: 100%;
+}
+.friendGroup .ten{
+  grid-area: photoThree;
+  align-self: stretch;
+  height: 100%;
+}
+.friendGroup .eleven{
+  grid-area: photoFour;
+  align-self: stretch;
+  height: 100%;
+}
+.friendGroup .twelve{
+  grid-area: photoFive;
+  align-self: stretch;
+  height: 100%;
+}
+
+.personal {
+  display: grid;
+  grid-gap: .5em;
+  grid-template-areas: 
+    "caption caption caption"
+    "photoOne photoTwo photoFour"
+    "photoOne photoThree photoFour";
+  grid-template-columns: 1fr 25% 1fr;
+  width: 40%; 
+  height: 1fr;
+  justify-self: stretch;
+  align-self: stretch;
+  align-content: stretch;
+}
+.personal .one{
+  grid-area: photoOne;
+  align-self: stretch;
+  height: 100%;
+}
+.personal .two{
+  grid-area: photoTwo;
+  align-self: stretch;
+  height: 100%;
+}
+.personal .three{
+  grid-area: photoThree;
+  align-self: stretch;
+  height: 100%;
+}
+.personal .four{
+  grid-area: photoFour;
+  align-self: stretch;
+  height: 100%;
+}
+
+.shs {
+  display: grid;
+  grid-gap: .5em;
+  grid-template-areas: 
+    "caption caption"
+    "photoOne photoTwo"
+    "photoOne photoThree";
+  grid-template-columns: 40% 60%;
+  width: 40%; 
+  justify-self: stretch;
+  align-self: stretch;
+  align-content: stretch;
+  height: 1fr;
+}
+.shs .one{
+  grid-area: photoOne;
+  align-self: stretch;
+  height: 100%;
+}
+.shs .two{
+  grid-area: photoTwo;
+  align-self: stretch;
+  height: 100%;
+}
+.shs .three{
+  grid-area: photoThree;
+  align-self: stretch;
+  height: 100%;
+}
+
+.swimHipodromo {
+  display: grid;
+  grid-gap: .5em;
+  grid-template-areas: 
+    "caption caption"
+    "photoOne photoTwo"
+    "photoOne photoThree";
+  grid-template-columns: 1fr 40%;
+  width: 40%; 
+  height: 1fr;
+  justify-self: stretch;
+  align-self: stretch;
+  align-content: stretch;
+  margin-bottom: 80px;
+
+}
+.swimHipodromo .five{
+  grid-area: photoOne;
+  align-self: stretch;
+  height: 100%;
+}
+.swimHipodromo .six{
+  grid-area: photoTwo;
+  align-self: stretch;
+  height: 100%;
+}
+.swimHipodromo .seven{
+  grid-area: photoThree;
+  align-self: stretch;
+  height: 100%;
+}
+
+.swimmingOld {
+  display: grid;
+  grid-gap: .5em;
+  grid-template-areas: 
+    "caption caption"
+    "photoOne photoTwo"
+    "photoThree photoFour";
+  grid-template-columns: 1fr 1fr;
+  width: 40%; 
+  justify-self: stretch;
+  align-self: stretch;
+  align-content: stretch;
+  margin-bottom: 80px;
+}
+.swimmingOld .one{
+  grid-area: photoOne;
+  align-self: stretch;
+  height: 100%;
+}
+.swimmingOld .two{
+  grid-area: photoTwo;
+  align-self: stretch;
+  height: 100%;
+  
+}
+.swimmingOld .three{
+  grid-area: photoThree;  
+  align-self: stretch;
+  height: 100%;
+}
+.swimmingOld .four{
+  grid-area: photoFour;
+  align-self: stretch;
+  height: 100%;
+}
+
+.villa {
+  display: grid;
+  grid-gap: .5em;
+  grid-template-areas: 
+    "caption caption caption caption"
+    "photoOne photoThree photoFour photoFive"
+    "photoTwo photoThree photoFour photoSix";
+  grid-template-columns: 15% 35% 35% 15%;
+  width: 80%; 
+  justify-self: stretch;
+  align-self: stretch;
+  align-content: stretch;
+}
+
+.villa .one{
+  grid-area: photoOne;
+  align-self: stretch;
+  height: 100%;
+}
+.villa .two{
+  grid-area: photoTwo;
+  align-self: stretch;
+  height: 100%;
+}
+.villa .three{
+  grid-area: photoThree;
+  align-self: stretch;
+  height: 300px;
+}
+.villa .four{
+  grid-area: photoFour;
+  align-self: stretch;
+  height: 300px;
+}
+.villa .five{
+  grid-area: photoFive;
+  align-self: stretch;
+  height: 100%;
+}
+.villa .six{
+  grid-area: photoSix;
+  align-self: stretch;
+  height: 100%;
+}
